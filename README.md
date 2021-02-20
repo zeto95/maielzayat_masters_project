@@ -1,5 +1,5 @@
 This repository contains the code for my master_thesis.
-It is highly recommended to read this file befre running the code to have a better undertsanding of how this code works.
+It is highly recommended to read this file before running the code to have a better undertsanding it works.
 
 # TOPIC:
   Using deep learning to extract empirical results from tabular data in scientific papers
