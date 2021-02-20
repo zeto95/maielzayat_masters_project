@@ -30,5 +30,5 @@ It is highly recommended to read this file before running the code to have a bet
   4. Run the **benchmark_model.py**, The output accuracy of the benchmark model will be showed on the console 
   (The Base model is a DNN using grid search for tuning the hyperparameters) 
   5. Then run the **gridsearchandsoftwoting.py**, The output of the three models results will be presented on the console, also the voting classifier results 
-  on both trianing and testing dataset). The time taken for this script to run will be presented in seconds at the end. 
+  on both trianing and testing dataset. The time taken for this script to run will be presented in seconds at the end. 
   
